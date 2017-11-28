@@ -1,0 +1,7 @@
+C:\Users\Jivka\Documents\Visual Studio 2017\Projects\ExceptionHandling\01_SquareRoot\bin\Debug\01_SquareRoot.exe.config
+C:\Users\Jivka\Documents\Visual Studio 2017\Projects\ExceptionHandling\01_SquareRoot\bin\Debug\01_SquareRoot.exe
+C:\Users\Jivka\Documents\Visual Studio 2017\Projects\ExceptionHandling\01_SquareRoot\bin\Debug\01_SquareRoot.pdb
+C:\Users\Jivka\Documents\Visual Studio 2017\Projects\ExceptionHandling\01_SquareRoot\obj\Debug\01_SquareRoot.csprojResolveAssemblyReference.cache
+C:\Users\Jivka\Documents\Visual Studio 2017\Projects\ExceptionHandling\01_SquareRoot\obj\Debug\01_SquareRoot.csproj.CoreCompileInputs.cache
+C:\Users\Jivka\Documents\Visual Studio 2017\Projects\ExceptionHandling\01_SquareRoot\obj\Debug\01_SquareRoot.exe
+C:\Users\Jivka\Documents\Visual Studio 2017\Projects\ExceptionHandling\01_SquareRoot\obj\Debug\01_SquareRoot.pdb
